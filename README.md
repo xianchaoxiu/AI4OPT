@@ -1,1 +1,1 @@
-# Artificial-Intelligence-for-Optimization-AI4OPT-
+# Artificial Intelligence for Optimization (AI4OPT)
