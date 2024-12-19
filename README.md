@@ -6,6 +6,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [Deep Unrolling (DU)](#DU)
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
+- [Applications](#Applications)
 
   
 <strong> Last Update: 2024/12/18 </strong>
@@ -74,17 +75,36 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 ## Large Language Model (LLM)
 
 - [2024] Autoformulation of Mathematical Optimization Models Using LLMs, arXiv [[Paper](https://arxiv.org/abs/2411.01679)] 
-- [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Python](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://arxiv.org/abs/2402.10172)] [[Python](https://github.com/teshnizi/OptiMUS)]
 - [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
 - [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Python](https://github.com/EleutherAI/math-lm)]
 - [2024] LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems, INFOR  [[Paper](https://www.tandfonline.com/doi/full/10.1080/03155986.2024.2388452)] 
-- [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Python](https://github.com/locuslab/wanda)]
 - [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] 
-- [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
-- [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
 - [2023] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Python](https://github.com/google-deepmind/opro)]
+- [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
+
+
+
+<a name="Applications" />
+
+## Applications
+
+### Feature Selection
+
+- [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
+- [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
+- [2024] Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization, arXiv [[Paper](https://arxiv.org/abs/2403.16966)]
+- [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Python](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
+
+
+
+### Network Compression
+- [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Python](https://github.com/usamec/double_sparse)]
+- [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Python](https://github.com/fmfi-compbio/admm-pruning)]
+- [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Python](https://github.com/locuslab/wanda)]
+- [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Python](https: //github.com/yxli2123/LoSparse)]
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Python](https://github.com/IST-DASLab/sparsegpt)]
-- [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)] 
+- [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Python](https://github.com/ofsoundof/group_sparsity)]
+- [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
