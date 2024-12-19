@@ -106,6 +106,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 
 
 ### Network Pruning
+
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Python](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Python](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Python](https://github.com/locuslab/wanda)]
@@ -114,4 +115,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Python](https://github.com/ofsoundof/group_sparsity)]
 - [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
 
+
+### Embodied Intelligence
+
+- [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)]  [[Python](https://openvla.github.io/)]
 
