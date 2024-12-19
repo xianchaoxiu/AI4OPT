@@ -41,7 +41,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 <a name="DU" />
 
 ## Deep Unrolling (DU)
-
+- [2024] RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection, WACV [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Wu_RPCANet_Deep_Unfolding_RPCA_Based_Infrared_Small_Target_Detection_WACV_2024_paper.html)] [[Python](https://github.com/fengyiwu98/RPCANet)]
 - [2024] Dual Prior Unfolding for Snapshot Compressive Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)] [[Python](https://github.com/ZhangJC-2k/DPU)]
 - [2024] Interpretable Neural Networks for Video Separation: Deep Unfolding RPCA With Foreground Masking, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10339254)]
 - [2022] Deep Generalized Unfolding Networks for Image Restoration, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html)] [[Python](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)]
@@ -93,14 +93,19 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 
 ### Feature Selection
 
+- [2024] Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/10521775/)]
 - [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
 - [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
 - [2024] Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization, arXiv [[Paper](https://arxiv.org/abs/2403.16966)]
 - [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Python](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
+- [2024] Bi-Level Spectral Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10562273)]
+- [2024] Unsupervised Discriminative Feature Selection via Contrastive Graph Learning, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10410215)]
+- [2023] Automated Feature Selection: A Reinforcement Learning Perspective, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9547816/)] 
 
 
 
-### Network Compression
+
+### Network Pruning
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Python](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Python](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Python](https://github.com/locuslab/wanda)]
@@ -108,3 +113,5 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Python](https://github.com/IST-DASLab/sparsegpt)]
 - [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Python](https://github.com/ofsoundof/group_sparsity)]
 - [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
+
+
