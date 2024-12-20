@@ -9,17 +9,15 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [Applications](#Applications)
 
   
-<strong> Last Update: 2024/12/19 </strong>
+<strong> Last Update: 2024/12/20 </strong>
 
 
 
 <a name="Surveys" />
 
 ### Surveys
+
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
-- [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Python](https://github.com/hrcheng1066/awesome-pruning)]
-- [2024] A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms, arXiv [[Paper](https://arxiv.org/abs/2409.16694)]
-- [2024] Small Language Models: Survey, Measurements, and Insights, arXiv [[Paper](https://arxiv.org/abs/2409.15790)]
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
 - [2024] A Survey of Recent Advances in Optimization Methods for Wireless Communications, IEEE JSAC [[Paper](https://ieeexplore.ieee.org/abstract/document/10636212)]
 - [2024] Image Compressed Sensing: From Deep Learning to Adaptive Learning, KBS [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124002946)]
@@ -31,10 +29,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [2023] Deep Learning Meets Sparse Regularization: A Signal Processing Perspective, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10243466)]
 - [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
 - [2023] Physics-Inspired Compressive Sensing: Beyond Deep Unrolling, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004834)]
-- [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
 - [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
 - [2022] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
-- [2020] On Hyperparameter Optimization of Machine Learning Algorithms: Theory and practice, NC [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311693)]
+- [2020] On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice, NC [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311693)]
 - [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, PROC‌‌ [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
 - [2019] Deep Unfolding for Communications Systems: A Survey and Some New Directions, IEEE SiPS [[Paper](https://ieeexplore.ieee.org/abstract/document/9020494)]
 
@@ -81,7 +78,6 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [2023] Deep Memory-Augmented Proximal Unrolling Network for Compressive Sensing, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-023-01765-2)]
 - [2023] Recursions Are All You Need: Towards Efficient Deep Unfolding Networks, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Alhejaili_Recursions_Are_All_You_Need_Towards_Efficient_Deep_Unfolding_Networks_CVPRW_2023_paper.html)]  [[Python](https://github.com/Rawwad-Alhejaili/Recursions-Are-All-You-Need)]
 - [2023] Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimization-Inspired_Cross-Attention_Transformer_for_Compressive_Sensing_CVPR_2023_paper.html)] [[Python](https://github.com/songjiechong/OCTUF)]
-- [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9439159)]
 - [2022] High-Throughput Deep Unfolding Network for Compressive Sensing MRI, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9763318)] [[Python](https://github.com/jianzhangcs/HiTDUN)]
 - [2022] Ada-LISTA: Learned Solvers Adaptive to Varying Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9601284)]
 - [2022] QISTA-ImageNet: A Deep Compressive Image Sensing Framework Solving lq-Norm Optimization Problem, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_24)] 
@@ -146,6 +142,19 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 
 ## Applications
 
+### Clustering
+
+- [2024] Deep Clustering: A Comprehensive Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10585323)]
+- [2024] A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions, ACM CSUR [[Paper](https://dl.acm.org/doi/abs/10.1145/3689036)]
+- [2024] A Survey and an Empirical Evaluation of Multi-View Clustering Approaches, ACM CSUR [[Paper](https://dl.acm.org/doi/abs/10.1145/3645108)]
+- [2024] Flexible and Parameter-Free Graph Learning for Multi-View Spectral Clustering, IEEE TCSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/10483017)]
+- [2023] Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning, IEEE TMM [[Paper](https://ieeexplore.ieee.org/abstract/document/10080867)]
+- [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9439159)]
+- [2022] Efficient Deep Embedded Subspace Clustering, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cai_Efficient_Deep_Embedded_Subspace_Clustering_CVPR_2022_paper.html)]
+- [2019] Self-Supervised Convolutional Subspace Clustering Network, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.html)]
+
+
+  
 ### Feature Selection
 
 - [2024] Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/10521775/)]
@@ -160,11 +169,13 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 
 ### Network Pruning
 
+- [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Python](https://github.com/hrcheng1066/awesome-pruning)]
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Python](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Python](https://github.com/fmfi-compbio/admm-pruning)]
 - [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Python](https://github.com/locuslab/wanda)]
-- [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Python](https: //github.com/yxli2123/LoSparse)]
+- [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Python](https://github.com/yxli2123/LoSparse)]
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Python](https://github.com/IST-DASLab/sparsegpt)]
+- - [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
 - [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Python](https://github.com/ofsoundof/group_sparsity)]
 - [2017] Channel Pruning for Accelerating Very Deep Neural Networks, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html)]
 
@@ -172,4 +183,5 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 ### Embodied Intelligence
 
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2406.09246)]  [[Python](https://openvla.github.io/)]
+- [2024] A Survey on Robotics with Foundation Models: Toward Embodied AI, arXiv [[Paper](https://arxiv.org/abs/2402.02385)] 
 
