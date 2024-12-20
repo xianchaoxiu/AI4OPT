@@ -1,7 +1,5 @@
 # Artificial Intelligence for Optimization (AI4OPT)
 
-![](https://img.shields.io/github/xianchaoxiu/AI4OPT-color=green) ![](https://img.shields.io/badge/PaperNumber-200+-brightgreen) 
-
 I currently focus on artificial intelligence for optimization (AI4OPT) with applications in pattern recognition and robotics.
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
@@ -11,7 +9,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) with appl
 - [Applications](#Applications)
 
   
-<strong> Last Update: 2024/12/18 </strong>
+<strong> Last Update: 2024/12/19 </strong>
 
 
 
