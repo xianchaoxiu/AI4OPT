@@ -1,6 +1,6 @@
 # Artificial Intelligence for Optimization (AI4OPT)
 
-I currently focus on artificial intelligence for optimization (AI4OPT) with applications in pattern recognition and robotics.
+I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unrolling (DU)](#DU)
