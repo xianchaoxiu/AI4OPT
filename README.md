@@ -1,5 +1,7 @@
 # Artificial Intelligence for Optimization (AI4OPT)
 
+![](https://img.shields.io/github/last-commit/thunlp/PromptPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-200+-brightgreen) 
+
 I currently focus on artificial intelligence for optimization (AI4OPT) with applications in pattern recognition and robotics.
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
