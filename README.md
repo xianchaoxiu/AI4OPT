@@ -55,10 +55,10 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2018] CNN-Based Projected Gradient Descent for Consistent CT Image Reconstruction, IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8353870)]
 - [2017] Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/7839189)]
 - [2017] Learning Deep CNN Denoiser Prior for Image Restoration, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)]
-- [2017] Plug-and-Play ADMM for Image Restoration: Fixed-Point Convergence and Applications, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/7744574)] [[Python](https://github.com/AlexGraikos/diffusion_priors)]
+- [2017] Plug-and-Play ADMM for Image Restoration: Fixed-Point Convergence and Applications, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/7744574)] [[Code](https://github.com/AlexGraikos/diffusion_priors)]
 - [2017] Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Meinhardt_Learning_Proximal_Operators_ICCV_2017_paper.html)]
 - [2016] Plug-and-Play Priors for Bright Field Electron Tomography and Sparse Interpolation, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/7542195)]
-- [2013] Plug-and-Play Priors for Model Based Reconstruction, GlobalSIP [[Paper](https://ieeexplore.ieee.org/abstract/document/6737048)][[Python](https://github.com/svvenkatakrishnan/plug-and-play-priors)]
+- [2013] Plug-and-Play Priors for Model Based Reconstruction, GlobalSIP [[Paper](https://ieeexplore.ieee.org/abstract/document/6737048)][[Code](https://github.com/svvenkatakrishnan/plug-and-play-priors)]
 
 
 
@@ -70,24 +70,24 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10477580)]
 - [2024] Interpretable Networks for Hyperspectral Anomaly Detection: A Deep Unfolding Solution, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10613787)]
 - [2024] Proximal Gradient-Based Unfolding for Massive Random Access in IoT Networks, IEEE TWC [[Paper](https://ieeexplore.ieee.org/abstract/document/10571841)]
-- [2024] RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection, WACV [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Wu_RPCANet_Deep_Unfolding_RPCA_Based_Infrared_Small_Target_Detection_WACV_2024_paper.html)] [[Python](https://github.com/fengyiwu98/RPCANet)]
-- [2024] Dual Prior Unfolding for Snapshot Compressive Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)] [[Python](https://github.com/ZhangJC-2k/DPU)]
+- [2024] RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection, WACV [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Wu_RPCANet_Deep_Unfolding_RPCA_Based_Infrared_Small_Target_Detection_WACV_2024_paper.html)] [[Code](https://github.com/fengyiwu98/RPCANet)]
+- [2024] Dual Prior Unfolding for Snapshot Compressive Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)] [[Code](https://github.com/ZhangJC-2k/DPU)]
 - [2024] Interpretable Neural Networks for Video Separation: Deep Unfolding RPCA With Foreground Masking, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10339254)]
 - [2024] Towards Constituting Mathematical Structures for Learning to Optimize, ICLR [[Paper](https://proceedings.mlr.press/v202/liu23e.html)]
 - [2023] Deep Physics-Guided Unrolling Generalization for Compressed Sensing, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-023-01814-w)]
 - [2023] Deep Memory-Augmented Proximal Unrolling Network for Compressive Sensing, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-023-01765-2)]
-- [2023] Recursions Are All You Need: Towards Efficient Deep Unfolding Networks, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Alhejaili_Recursions_Are_All_You_Need_Towards_Efficient_Deep_Unfolding_Networks_CVPRW_2023_paper.html)]  [[Python](https://github.com/Rawwad-Alhejaili/Recursions-Are-All-You-Need)]
-- [2023] Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimization-Inspired_Cross-Attention_Transformer_for_Compressive_Sensing_CVPR_2023_paper.html)] [[Python](https://github.com/songjiechong/OCTUF)]
-- [2022] High-Throughput Deep Unfolding Network for Compressive Sensing MRI, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9763318)] [[Python](https://github.com/jianzhangcs/HiTDUN)]
+- [2023] Recursions Are All You Need: Towards Efficient Deep Unfolding Networks, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Alhejaili_Recursions_Are_All_You_Need_Towards_Efficient_Deep_Unfolding_Networks_CVPRW_2023_paper.html)]  [[Code](https://github.com/Rawwad-Alhejaili/Recursions-Are-All-You-Need)]
+- [2023] Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimization-Inspired_Cross-Attention_Transformer_for_Compressive_Sensing_CVPR_2023_paper.html)] [[Code](https://github.com/songjiechong/OCTUF)]
+- [2022] High-Throughput Deep Unfolding Network for Compressive Sensing MRI, IEEE JSTSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9763318)] [[Code](https://github.com/jianzhangcs/HiTDUN)]
 - [2022] Ada-LISTA: Learned Solvers Adaptive to Varying Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9601284)]
 - [2022] QISTA-ImageNet: A Deep Compressive Image Sensing Framework Solving lq-Norm Optimization Problem, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_24)] 
-- [2022] Deep Generalized Unfolding Networks for Image Restoration, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html)] [[Python](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)]
+- [2022] Deep Generalized Unfolding Networks for Image Restoration, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html)] [[Code](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)]
 - [2022] Content-Aware Scalable Deep Compressed Sensing, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9854112)]
 - [2021] COAST: COntrollable Arbitrary-Sampling NeTwork for Compressive Sensing, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9467810)]
-- [2021] Memory-Augmented Deep Unfolding Network for Compressive Sensing, ACM MM [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475562)] [[Python](https://github.com/jianzhangcs/MADUN/)]
-- [2021] ISTA-NET++: Flexible Deep Unfolding Network for Compressive Sensing, ICME [[Paper](https://ieeexplore.ieee.org/abstract/document/9428249)] [[Python](https://github.com/jianzhangcs/ISTA-Netpp)]
-- [2021] Learned Robust PCA: A Scalable Deep Unfolding Approach for High-Dimensional Outlier Detection, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/8d2355364e9a2ba1f82f975414937b43-Abstract.html)] [[Python](https://github.com/caesarcai/LRPCA)]
-- [2021] Hyperparameter Tuning is All You Need for LISTA, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/60c97bef031ec312b512c08565c1868e-Abstract.html)] [[Python](https://github.com/VITA-Group/HyperLISTA)]
+- [2021] Memory-Augmented Deep Unfolding Network for Compressive Sensing, ACM MM [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475562)] [[Code](https://github.com/jianzhangcs/MADUN/)]
+- [2021] ISTA-NET++: Flexible Deep Unfolding Network for Compressive Sensing, ICME [[Paper](https://ieeexplore.ieee.org/abstract/document/9428249)] [[Code](https://github.com/jianzhangcs/ISTA-Netpp)]
+- [2021] Learned Robust PCA: A Scalable Deep Unfolding Approach for High-Dimensional Outlier Detection, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/8d2355364e9a2ba1f82f975414937b43-Abstract.html)] [[Code](https://github.com/caesarcai/LRPCA)]
+- [2021] Hyperparameter Tuning is All You Need for LISTA, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/60c97bef031ec312b512c08565c1868e-Abstract.html)] [[Code](https://github.com/VITA-Group/HyperLISTA)]
 - [2020] AMP-Net: Denoising-Based Deep Unfolding for Compressive Image Sensing, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9298950)] 
 - [2020] Learning Proximal Operator Methods for Nonconvex Sparse Recovery with Theoretical Guarantee, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9025003)] 
 - [2020] Deep Unfolded Robust PCA With Application to Clutter Suppression in Ultrasound, IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/8836615)] 
@@ -96,7 +96,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2019] Differentiable Linearized ADMM, ICLR [[Paper](https://proceedings.mlr.press/v97/xie19c.html)]
 - [2018] Theoretical Linear Convergence of Unfolded ISTA and Its Practical Weights and Thresholds, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2018/hash/cf8c9be2a4508a24ae92c9d3d379131d-Abstract.html)] 
 - [2018] ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.html)] 
-- [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Matlab](https://github.com/minhnhat93/lfa_sc)]
+- [2010] Learning Fast Approximations of Sparse Coding, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3104322.3104374)] [[Code](https://github.com/minhnhat93/lfa_sc)]
 
 
 
@@ -105,19 +105,19 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 ## Deep Equilibrium (DEQ)
 
-- [2024] Deep Equilibrium Diffusion Restoration with Parallel Sampling, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Deep_Equilibrium_Diffusion_Restoration_with_Parallel_Sampling_CVPR_2024_paper.html)] [[Python](https://github.com/caojiezhang/DeqIR)]
-- [2024] Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4462db5eee6823b2abad0d1f955e187a-Abstract-Conference.html)] [[Python](https://github.com/AaronHavens/ExploitingLipschitzDEQ)]
+- [2024] Deep Equilibrium Diffusion Restoration with Parallel Sampling, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Deep_Equilibrium_Diffusion_Restoration_with_Parallel_Sampling_CVPR_2024_paper.html)] [[Code](https://github.com/caojiezhang/DeqIR)]
+- [2024] Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4462db5eee6823b2abad0d1f955e187a-Abstract-Conference.html)] [[Code](https://github.com/AaronHavens/ExploitingLipschitzDEQ)]
 - [2024] One-Step Diffusion Distillation via Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/82f05a105c928c10706213952bf0c8b7-Abstract-Conference.html)] [[Python](https://github.com/locuslab/get)]
-- [2023] Connections Between Deep Equilibrium and Sparse Representation Models With Application to Hyperspectral Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10049770)] [[Python](https://github.com/alexandrosgk/sparse_coding_deep_equilibrium)]
+- [2023] Connections Between Deep Equilibrium and Sparse Representation Models With Application to Hyperspectral Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10049770)] [[Code](https://github.com/alexandrosgk/sparse_coding_deep_equilibrium)]
 - [2023] Self-Supervised Deep Equilibrium Models With Theoretical Guarantees and Applications to MRI Reconstruction, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/10214618)] 
-- [2023] Deep Equilibrium Models for Snapshot Compressive Imaging, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25475)] [[Python](https://github.com/IndigoPurple/DEQSCI)]
+- [2023] Deep Equilibrium Models for Snapshot Compressive Imaging, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25475)] [[Code](https://github.com/IndigoPurple/DEQSCI)]
 - [2023] Equilibrium Image Denoising With Implicit Differentiation, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10070588)] 
 - [2023] Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging, IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10177777)] 
 - [2023] Optimization Induced Equilibrium Networks: An Explicit Optimization Perspective for Understanding Equilibrium Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9793682)]
-- [2023] Deep Equilibrium Object Detection, CVPR [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Deep_Equilibrium_Object_Detection_ICCV_2023_paper.html)] [[Python](https://github.com/MCG-NJU/DEQDet)]
-- [2022] Deep Equilibrium Approaches to Diffusion Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f7f47a73d631c0410cbc2748a8015241-Abstract-Conference.html)] [[Python](https://github.com/locuslab/deq-ddim)]
-- [2021] Deep Equilibrium Architectures for Inverse Problems in Imaging, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9565378/)] [[Python](https://github.com/dgilton/deep_equilibrium_inverse)]
-- [2019] Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2019/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html)] [[Python](https://github.com/locuslab/deq)]
+- [2023] Deep Equilibrium Object Detection, CVPR [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Deep_Equilibrium_Object_Detection_ICCV_2023_paper.html)] [[Code](https://github.com/MCG-NJU/DEQDet)]
+- [2022] Deep Equilibrium Approaches to Diffusion Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f7f47a73d631c0410cbc2748a8015241-Abstract-Conference.html)] [[Code](https://github.com/locuslab/deq-ddim)]
+- [2021] Deep Equilibrium Architectures for Inverse Problems in Imaging, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9565378/)] [[Code](https://github.com/dgilton/deep_equilibrium_inverse)]
+- [2019] Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2019/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html)] [[Code](https://github.com/locuslab/deq)]
 
 
 
@@ -126,14 +126,14 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ## Large Language Model (LLM)
 
 - [2024] Autoformulation of Mathematical Optimization Models Using LLMs, arXiv [[Paper](https://arxiv.org/abs/2411.01679)] 
-- [2024] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://arxiv.org/abs/2402.10172)] [[Python](https://github.com/teshnizi/OptiMUS)]
+- [2024] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://arxiv.org/abs/2402.10172)] [[Code](https://github.com/teshnizi/OptiMUS)]
 - [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
-- [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Python](https://github.com/EleutherAI/math-lm)]
+- [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Code](https://github.com/EleutherAI/math-lm)]
 - [2024] LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems, INFOR  [[Paper](https://www.tandfonline.com/doi/full/10.1080/03155986.2024.2388452)] 
 - [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] 
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
-- [2023] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Python](https://github.com/google-deepmind/opro)]
+- [2023] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
 
 
@@ -161,7 +161,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
 - [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
 - [2024] Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization, arXiv [[Paper](https://arxiv.org/abs/2403.16966)]
-- [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Python](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
+- [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Code](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
 - [2024] Bi-Level Spectral Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10562273)]
 - [2024] Unsupervised Discriminative Feature Selection via Contrastive Graph Learning, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10410215)]
 - [2023] Automated Feature Selection: A Reinforcement Learning Perspective, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9547816/)] 
