@@ -1,4 +1,4 @@
-# Artificial Intelligence for Optimization (AI4OPT)
+![image](https://github.com/user-attachments/assets/a2e7c0e2-d606-4e78-9ac4-d0ca5b7367a8)# Artificial Intelligence for Optimization (AI4OPT)
 
 I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Surveys](#Surveys)
@@ -41,9 +41,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 ## Plug-and-Play (PnP)
 - [2024] Convergent Plug-and-Play with Proximal Denoiser and Unconstrained Regularization Parameter, JMIV [[Paper](https://link.springer.com/article/10.1007/s10851-024-01195-w)] 
-- [2022] Plug-and-Play Image Restoration With Deep Denoiser Prior, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9454311)] [[Python](https://github.com/cszn/DPIR)]
+- [2022] Plug-and-Play Image Restoration With Deep Denoiser Prior, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9454311)] [[Code](https://github.com/cszn/DPIR)]
 - [2022] Plug-and-Play Algorithms for Video Snapshot Compressive Imaging, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9495194)]
-- [2022] Diffusion Models as Plug-and-Play Priors, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e6cec2a9520708381fe520246018e8b-Abstract-Conference.html)] [[Python](https://github.com/AlexGraikos/diffusion_priors)]
+- [2022] Diffusion Models as Plug-and-Play Priors, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e6cec2a9520708381fe520246018e8b-Abstract-Conference.html)] [[Code](https://github.com/AlexGraikos/diffusion_priors)]
 - [2021] Enhanced Convergent PnP Algorithms for Image Restoration, ICIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9506226)]
 - [2021] Regularization by Denoising via Fixed-Point Projection (RED-PRO), SIIMS [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M1337168)] 
 - [2020] Deep Generalization of Structured Low-Rank Algorithms (Deep-SLR), IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9159672)]
