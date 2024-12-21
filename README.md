@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a2e7c0e2-d606-4e78-9ac4-d0ca5b7367a8)# Artificial Intelligence for Optimization (AI4OPT)
+# Artificial Intelligence for Optimization (AI4OPT)
 
 I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Surveys](#Surveys)
