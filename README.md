@@ -7,6 +7,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
 - [Applications](#Applications)
+- [Resources](#Resources)
 
   
 <strong> Last Update: 2024/12/20 </strong>
@@ -168,4 +169,10 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 
 
+<a name="Resources" />
+
+## Resources
+
+- Federated Machine Learning [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
+- Clustering Datasets [[Link](https://github.com/milaan9/Clustering-Datasets)]
 
