@@ -3,7 +3,7 @@
 I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
-- [Deep Unrolling (DU)](#DU)
+- [Deep Unfolding (DU)](#DU)
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
 - [Applications](#Applications)
@@ -65,7 +65,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 <a name="DU" />
 
-## Deep Unrolling (DU)
+## Deep Unfolding (DU)
 - [2024] DEs-Inspired Accelerated Unfolded Linearized ADMM Networks for Inverse Problems, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10499839)]
 - [2024] Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10477580)]
 - [2024] Interpretable Networks for Hyperspectral Anomaly Detection: A Deep Unfolding Solution, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10613787)]
