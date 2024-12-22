@@ -75,6 +75,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Dual Prior Unfolding for Snapshot Compressive Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html)] [[Code](https://github.com/ZhangJC-2k/DPU)]
 - [2024] Interpretable Neural Networks for Video Separation: Deep Unfolding RPCA With Foreground Masking, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10339254)]
 - [2024] Towards Constituting Mathematical Structures for Learning to Optimize, ICLR [[Paper](https://proceedings.mlr.press/v202/liu23e.html)]
+- [2024] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 - [2023] Deep Physics-Guided Unrolling Generalization for Compressed Sensing, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-023-01814-w)]
 - [2023] Deep Memory-Augmented Proximal Unrolling Network for Compressive Sensing, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-023-01765-2)]
 - [2023] Recursions Are All You Need: Towards Efficient Deep Unfolding Networks, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Alhejaili_Recursions_Are_All_You_Need_Towards_Efficient_Deep_Unfolding_Networks_CVPRW_2023_paper.html)]  [[Code](https://github.com/Rawwad-Alhejaili/Recursions-Are-All-You-Need)]
@@ -167,6 +168,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Bi-Level Spectral Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10562273)]
 - [2024] Unsupervised Discriminative Feature Selection via Contrastive Graph Learning, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10410215)]
 - [2023] Automated Feature Selection: A Reinforcement Learning Perspective, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9547816/)] 
+- [2023] Federated Feature Selection for Horizontal Federated Learning in IoT Networks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/10017376)] 
+
 
 
 
