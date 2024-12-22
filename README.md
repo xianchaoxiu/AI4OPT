@@ -67,6 +67,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="DU" />
 
 ## Deep Unfolding (DU)
+- [2024] Deep, Convergent, Unrolled Half-Quadratic Splitting for Image Deconvolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10478818/)]
 - [2024] LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network, arXiv [[Paper](https://arxiv.org/abs/2406.01028)]    
 - [2024] Enhancing Low-Light Light Field Images With a Deep Compensation Unfolding Network, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10586875)] [[Code](https://github.com/lyuxianqiang/LFLL-DCU)]
 - [2024] DEs-Inspired Accelerated Unfolded Linearized ADMM Networks for Inverse Problems, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10499839)]
@@ -138,7 +139,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
-
+- [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
+- [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
+- [2024] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]  [[Code](https://github.com/teshnizi/OptiMUS)]
 - [2024] Autoformulation of Mathematical Optimization Models Using LLMs, arXiv [[Paper](https://arxiv.org/abs/2411.01679)] 
 - [2024] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://arxiv.org/abs/2402.10172)] [[Code](https://github.com/teshnizi/OptiMUS)]
 - [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
@@ -182,7 +185,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Bi-Level Spectral Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10562273)]
 - [2024] Unsupervised Discriminative Feature Selection via Contrastive Graph Learning, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10410215)]
 - [2023] Automated Feature Selection: A Reinforcement Learning Perspective, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9547816/)] 
-- [2023] Federated Feature Selection for Horizontal Federated Learning in IoT Networks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/10017376)] 
+- [2023] Federated Feature Selection for Horizontal Federated Learning in IoT Networks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/10017376)]
+- [2023] Federated Learning for Sparse Principal Component Analysis, BigData [[Paper](https://ieeexplore.ieee.org/abstract/document/10386231)] 
 - [2018] Adaptive Unsupervised Feature Selection With Structure Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/7835729/)] 
 - [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/7458185/)] 
 
