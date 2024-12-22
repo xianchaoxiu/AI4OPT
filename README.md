@@ -155,7 +155,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9439159)]
 - [2022] Efficient Deep Embedded Subspace Clustering, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cai_Efficient_Deep_Embedded_Subspace_Clustering_CVPR_2022_paper.html)]
 - [2019] Self-Supervised Convolutional Subspace Clustering Network, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.html)]
-
+- [2017] Sparse Subspace Clustering by Learning Approximation L0 Codes, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10782)]
 
   
 ### Feature Selection
