@@ -173,7 +173,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2015] Multi-View Subspace Clustering, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Gao_Multi-View_Subspace_Clustering_ICCV_2015_paper.html)]
 - [2013] Robust Recovery of Subspace Structures by Low-Rank Representation, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/6180173/)]
 
-- 
+  
 ### Feature Selection
 
 - [2024] Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/10521775/)]
