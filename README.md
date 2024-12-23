@@ -224,8 +224,10 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ### Support Matrix Machines
 
 - [2025] Support Matrix Machine: A Review, NN [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024006919)]
+- [2024]  Adaptive Multimodel Knowledge Transfer Matrix Machine for EEG Classification, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9953061)] 
 - [2024] Support Matrix Machine via Joint L2,1 and Nuclear Norm Minimization Under Matrix Completion Framework for Classification of Corrupted Data, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10198211)] 
-- [2024] Support Matrix Machine: Exploring Sample Sparsity, Low Rank, and Adaptive Sieving in High-Performance Computing, arXiv [[Paper](https://arxiv.org/abs/2412.08023)] 
+- [2024] Support Matrix Machine: Exploring Sample Sparsity, Low Rank, and Adaptive Sieving in High-Performance Computing, arXiv [[Paper](https://arxiv.org/abs/2412.08023)]
+- [2018] Robust Multicategory Support Matrix Machines, MP  [[Paper](https://link.springer.com/article/10.1007/s10107-019-01386-z)]
 - [2018] Sparse Support Matrix Machine, PR [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304016)] 
 - [2018] Robust Support Matrix Machine for Single Trial EEG Classification, IEEE TNSRE [[Paper](https://ieeexplore.ieee.org/abstract/document/8262658)] 
 - [2015] Support Matrix Machines, ICML [[Paper](https://proceedings.mlr.press/v37/luo15.html)] 
