@@ -92,7 +92,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2022] Ada-LISTA: Learned Solvers Adaptive to Varying Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9601284)]
 - [2022] QISTA-ImageNet: A Deep Compressive Image Sensing Framework Solving lq-Norm Optimization Problem, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_24)] 
 - [2022] Deep Generalized Unfolding Networks for Image Restoration, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html)] [[Code](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)]
-- [2022] LR-CSNet: Low-Rank Deep Unfolding Network for Image Compressive Sensing, ICCC  [[Paper](https://ieeexplore.ieee.org/abstract/document/10065722] 
+- [2022] LR-CSNet: Low-Rank Deep Unfolding Network for Image Compressive Sensing, ICCC  [[Paper](https://ieeexplore.ieee.org/abstract/document/10065722)]
 - [2022] Content-Aware Scalable Deep Compressed Sensing, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9854112)]
 - [2021] COAST: COntrollable Arbitrary-Sampling NeTwork for Compressive Sensing, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9467810)]
 - [2021] Memory-Augmented Deep Unfolding Network for Compressive Sensing, ACM MM [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475562)] [[Code](https://github.com/jianzhangcs/MADUN/)]
