@@ -209,11 +209,14 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2020] The Numerics of Phase Retrieval, AN [[Paper](https://www.cambridge.org/core/journals/acta-numerica/article/abs/numerics-of-phase-retrieval/7000D4BBF45E088E39268D88BE49F730)] 
 - [2020] The Nonsmooth Landscape of Phase Retrieval, IMANUM [[Paper](https://academic.oup.com/imajna/article/40/4/2652/5684995)] 
 - [2020] Unfolded Algorithms for Deep Phase Retrieval, arXiv [[Paper](https://arxiv.org/abs/2012.11102)]
+- [2019] Optimal Spectral Initialization for Signal Recovery With Applications to Phase Retrieval, IEEE TSP  [[Paper](https://ieeexplore.ieee.org/abstract/document/8666737)]
 - [2018] prDeep: Robust Phase Retrieval with a Flexible Deep Network, ICML [[Paper](https://proceedings.mlr.press/v80/metzler18a.html)]
 - [2015] Phase Retrieval with Application to Optical Imaging: A Contemporary Overview, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7078985)] 
 - [2015] Phase Retrieval via Matrix Completion, SIREV [[Paper](https://epubs.siam.org/doi/abs/10.1137/151005099)]
 - [2015] Phase Retrieval via Wirtinger Flow: Theory and Algorithms, IEEE TIT  [[Paper](https://ieeexplore.ieee.org/abstract/document/7029630)]
 - [2014] Phase retrieval: Stability and recovery guarantees, ACHA  [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520313000717)] 
+- [2013] PhaseLift: Exact and Stable Signal Recovery from Magnitude Measurements via Convex Programming, CPA  [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21432)] 
+
 
 
 ### Support Matrix Machines
