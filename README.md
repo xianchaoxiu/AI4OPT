@@ -22,16 +22,16 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
 - [2024] A Survey of Recent Advances in Optimization Methods for Wireless Communications, IEEE JSAC [[Paper](https://ieeexplore.ieee.org/abstract/document/10636212)]
 - [2024] Image Compressed Sensing: From Deep Learning to Adaptive Learning, KBS [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124002946)]
-- [2023] Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining Physics and Machine Learning for Improved Medical Imaging, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004819)]
-- [2023] Learned Reconstruction Methods With Convergence Guarantees: A Survey of Concepts and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004773)]
+- [2023] Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining Physics and Machine Learning for Improved Medical Imaging, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004819)]
+- [2023] Learned Reconstruction Methods With Convergence Guarantees: A Survey of Concepts and Applications, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004773)]
 - [2023] Model-Based Deep Learning, PROC‌‌ [[Paper](https://ieeexplore.ieee.org/abstract/document/10056957)]
 - [2023] Theoretical Perspectives on Deep Learning Methods in Inverse Problems, IEEE JSAIT [[Paper](https://ieeexplore.ieee.org/abstract/document/10035380)]
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond—A Survey Paper, SIIMS [[Paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
-- [2023] Deep Learning Meets Sparse Regularization: A Signal Processing Perspective, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10243466)]
-- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
-- [2023] Physics-Inspired Compressive Sensing: Beyond Deep Unrolling, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/10004834)]
-- [2022] Federated Learning: A Signal Processing Perspective, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
-- [2022] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE SPM [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
+- [2023] Deep Learning Meets Sparse Regularization: A Signal Processing Perspective, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10243466)]
+- [2023] Plug-and-Play Methods for Integrating Physical and Learned Models in Computational Imaging: Theory, Algorithms, and Applications, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004791)]
+- [2023] Physics-Inspired Compressive Sensing: Beyond Deep Unrolling, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004834)]
+- [2022] Federated Learning: A Signal Processing Perspective, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9770266)]
+- [2022] Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9363511)]
 - [2020] On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice, NC [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311693)]
 - [2020] Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning, PROC‌‌ [[Paper](https://ieeexplore.ieee.org/abstract/document/8844696)]
 - [2019] Deep Unfolding for Communications Systems: A Survey and Some New Directions, IEEE SiPS [[Paper](https://ieeexplore.ieee.org/abstract/document/9020494)]
@@ -41,15 +41,19 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="PnP" />
 
 ## Plug-and-Play (PnP)
-- [2024] Convergent Plug-and-Play with Proximal Denoiser and Unconstrained Regularization Parameter, JMIV [[Paper](https://link.springer.com/article/10.1007/s10851-024-01195-w)] 
+- [2024] Convergent Plug-and-Play with Proximal Denoiser and Unconstrained Regularization Parameter, JMIV [[Paper](https://link.springer.com/article/10.1007/s10851-024-01195-w)]
+- [2023] Block Coordinate Plug-and-Play Methods for Blind Inverse Problems, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f810c2ba07bae78dfe9d25c5d40c5536-Abstract-Conference.html)]
 - [2022] Plug-and-Play Image Restoration With Deep Denoiser Prior, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9454311)] [[Code](https://github.com/cszn/DPIR)]
 - [2022] Plug-and-Play Algorithms for Video Snapshot Compressive Imaging, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9495194)]
 - [2022] Diffusion Models as Plug-and-Play Priors, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e6cec2a9520708381fe520246018e8b-Abstract-Conference.html)] [[Code](https://github.com/AlexGraikos/diffusion_priors)]
+- [2022] TFPnP: Tuning-free Plug-and-Play Proximal Algorithms with Applications to Inverse Imaging Problems, JMLR  [[Paper](https://www.jmlr.org/papers/v23/20-1297.html)] [[Code](https://github.com/Vandermode/TFPnP)]
+- [2021] Scalable Plug-and-Play ADMM With Convergence Guarantees, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9473005)]
 - [2021] Enhanced Convergent PnP Algorithms for Image Restoration, ICIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9506226)]
 - [2021] Regularization by Denoising via Fixed-Point Projection (RED-PRO), SIIMS [[Paper](https://epubs.siam.org/doi/abs/10.1137/20M1337168)] 
 - [2020] Deep Generalization of Structured Low-Rank Algorithms (Deep-SLR), IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9159672)]
 - [2020] Plug-and-Play Algorithms for Large-Scale Snapshot Compressive Imaging, ICCV [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Plug-and-Play_Algorithms_for_Large-Scale_Snapshot_Compressive_Imaging_CVPR_2020_paper.html)]
 - [2020] Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems, ICLR [[Paper](https://proceedings.mlr.press/v119/wei20b.html)]
+- [2019] Online Regularization by Denoising with Applications to Phase Retrieval, ICCV [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Wu_Online_Regularization_by_Denoising_with_Applications_to_Phase_Retrieval_ICCVW_2019_paper.html)]
 - [2019] Plug-and-Play Methods Provably Converge with Properly Trained Denoisers, ICLR [[Paper](https://proceedings.mlr.press/v97/ryu19a.html)]
 - [2018] Deep Image Prior, CVPR [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html)]
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/8365806)]
@@ -130,6 +134,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2023] Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging, IEEE TMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10177777)] 
 - [2023] Optimization Induced Equilibrium Networks: An Explicit Optimization Perspective for Understanding Equilibrium Models, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9793682)]
 - [2023] Deep Equilibrium Object Detection, CVPR [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Deep_Equilibrium_Object_Detection_ICCV_2023_paper.html)] [[Code](https://github.com/MCG-NJU/DEQDet)]
+- [2022] Online Deep Equilibrium Learning for Regularization by Denoising, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2440e23f6a8c037eff1dc4f1156aa35-Abstract-Conference.html)] 
 - [2022] Deep Equilibrium Approaches to Diffusion Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f7f47a73d631c0410cbc2748a8015241-Abstract-Conference.html)] [[Code](https://github.com/locuslab/deq-ddim)]
 - [2021] Deep Equilibrium Architectures for Inverse Problems in Imaging, IEEE TCI [[Paper](https://ieeexplore.ieee.org/abstract/document/9565378/)] [[Code](https://github.com/dgilton/deep_equilibrium_inverse)]
 - [2019] Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2019/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html)] [[Code](https://github.com/locuslab/deq)]
@@ -191,6 +196,27 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/7458185/)] 
 
 
+### Phase Retrieval
+
+- [2024] On the Use of Deep Learning for Phase Recovery, LSA [[Paper](https://www.nature.com/articles/s41377-023-01340-x)]  [[Code](https://github.com/kqwang/phase-recovery)]
+- [2023] Unfolding-Aided Bootstrapped Phase Retrieval in Optical Imaging: Explainable AI Reveals New Imaging Frontiers, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10054189)] 
+- [2023] Phase Retrieval: From Computational Imaging to Machine Learning: A Tutorial, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004797)] 
+- [2023] A Novel Iterative Algorithm for Outlier Robust Phase Retrieval via Majorization Minimization Technique, IEEE TIM [[Paper](https://ieeexplore.ieee.org/document/10237277)] 
+- [2022] Plug-and-Play Pixel Super-Resolution Phase Retrieval for Digital Holography, OL [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-11-2658)]
+- [2021] Physics-Based Iterative Projection Complex Neural Network for Phase Retrieval in Lensless Microscopy Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Physics-Based_Iterative_Projection_Complex_Neural_Network_for_Phase_Retrieval_in_CVPR_2021_paper.html)]
+- [2020] The Numerics of Phase Retrieval, AN [[Paper](https://www.cambridge.org/core/journals/acta-numerica/article/abs/numerics-of-phase-retrieval/7000D4BBF45E088E39268D88BE49F730)] 
+- [2020] The Nonsmooth Landscape of Phase Retrieval, IMANUM [[Paper](https://academic.oup.com/imajna/article/40/4/2652/5684995)] 
+- [2020] Unfolded Algorithms for Deep Phase Retrieval, arXiv [[Paper](https://arxiv.org/abs/2012.11102)]
+- [2018] prDeep: Robust Phase Retrieval with a Flexible Deep Network, ICML [[Paper](https://proceedings.mlr.press/v80/metzler18a.html)]
+
+- [2015] Phase Retrieval with Application to Optical Imaging: A Contemporary Overview, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7078985)] 
+
+- [2015] Phase Retrieval via Matrix Completion, SIREV [[Paper](https://epubs.siam.org/doi/abs/10.1137/151005099)]
+- [2015] Phase Retrieval via Wirtinger Flow: Theory and Algorithms, IEEE TIT  [[Paper](https://ieeexplore.ieee.org/abstract/document/7029630)]
+
+- [2014] Phase retrieval: Stability and recovery guarantees, ACHA  [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520313000717)] 
+
+
 ### Support Matrix Machines
 
 - [2025] Support Matrix Machine: A Review, NN [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024006919)]
@@ -206,5 +232,6 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ## Resources
 
 - Federated Machine Learning [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
+- Phase Recovery [[Link](https://github.com/kqwang/phase-recovery)]
 - Clustering Datasets [[Link](https://github.com/milaan9/Clustering-Datasets)]
 
