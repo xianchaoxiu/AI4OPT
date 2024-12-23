@@ -224,7 +224,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ### Support Matrix Machines
 
 - [2025] Support Matrix Machine: A Review, NN [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024006919)]
-- [2024]  Adaptive Multimodel Knowledge Transfer Matrix Machine for EEG Classification, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9953061)] 
+- [2024] Adaptive Multimodel Knowledge Transfer Matrix Machine for EEG Classification, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9953061)] 
 - [2024] Support Matrix Machine via Joint L2,1 and Nuclear Norm Minimization Under Matrix Completion Framework for Classification of Corrupted Data, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10198211)] 
 - [2024] Support Matrix Machine: Exploring Sample Sparsity, Low Rank, and Adaptive Sieving in High-Performance Computing, arXiv [[Paper](https://arxiv.org/abs/2412.08023)]
 - [2018] Robust Multicategory Support Matrix Machines, MP  [[Paper](https://link.springer.com/article/10.1007/s10107-019-01386-z)]
@@ -237,6 +237,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 ## Resources
 
+- Learning to Optimize [[Link](https://github.com/VITA-Group/Open-L2O)]
 - Federated Machine Learning [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
 - Phase Recovery [[Link](https://github.com/kqwang/phase-recovery)]
 - Clustering Datasets [[Link](https://github.com/milaan9/Clustering-Datasets)]
