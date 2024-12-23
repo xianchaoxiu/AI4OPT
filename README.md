@@ -199,6 +199,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ### Phase Retrieval
 
 - [2024] On the Use of Deep Learning for Phase Recovery, LSA [[Paper](https://www.nature.com/articles/s41377-023-01340-x)]  [[Code](https://github.com/kqwang/phase-recovery)]
+- [2024] Subspace Phase Retrieval, IEEE TIT [[Paper](https://ieeexplore.ieee.org/abstract/document/10495010)] 
+- [2024] Strong Convexity of Affine Phase Retrieval, IEEE TSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10453325)] 
 - [2023] Unfolding-Aided Bootstrapped Phase Retrieval in Optical Imaging: Explainable AI Reveals New Imaging Frontiers, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10054189)] 
 - [2023] Phase Retrieval: From Computational Imaging to Machine Learning: A Tutorial, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004797)] 
 - [2023] A Novel Iterative Algorithm for Outlier Robust Phase Retrieval via Majorization Minimization Technique, IEEE TIM [[Paper](https://ieeexplore.ieee.org/document/10237277)] 
@@ -208,12 +210,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2020] The Nonsmooth Landscape of Phase Retrieval, IMANUM [[Paper](https://academic.oup.com/imajna/article/40/4/2652/5684995)] 
 - [2020] Unfolded Algorithms for Deep Phase Retrieval, arXiv [[Paper](https://arxiv.org/abs/2012.11102)]
 - [2018] prDeep: Robust Phase Retrieval with a Flexible Deep Network, ICML [[Paper](https://proceedings.mlr.press/v80/metzler18a.html)]
-
 - [2015] Phase Retrieval with Application to Optical Imaging: A Contemporary Overview, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/7078985)] 
-
 - [2015] Phase Retrieval via Matrix Completion, SIREV [[Paper](https://epubs.siam.org/doi/abs/10.1137/151005099)]
 - [2015] Phase Retrieval via Wirtinger Flow: Theory and Algorithms, IEEE TIT  [[Paper](https://ieeexplore.ieee.org/abstract/document/7029630)]
-
 - [2014] Phase retrieval: Stability and recovery guarantees, ACHA  [[Paper](https://www.sciencedirect.com/science/article/pii/S1063520313000717)] 
 
 
