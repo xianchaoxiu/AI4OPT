@@ -17,6 +17,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="Surveys" />
 
 ## Surveys
+- [2024] A Survey on LLMM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
+- [2024] A Survey of Mathematica Reasoning in the Era of Multimodal LargeLanguage Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
 - [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
@@ -140,10 +142,12 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2019] Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2019/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html)] [[Code](https://github.com/locuslab/deq)]
 
 
-
+  
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2024] Does Prompt Formatting Have Any Impact on LLM Performance, arXiv [[Paper](https://arxiv.org/abs/2411.10541)]
+- [2024] Sparsing Law: Towards Large Language Models with Greater Activation Sparsity, arXiv [[Paper](https://arxiv.org/abs/2411.02335)] 
 - [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
 - [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
 - [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
