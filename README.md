@@ -144,6 +144,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
 - [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
 - [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
 - [2024] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]  [[Code](https://github.com/teshnizi/OptiMUS)]
