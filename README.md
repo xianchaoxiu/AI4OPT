@@ -17,7 +17,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="Surveys" />
 
 ## Surveys
-
+- [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
 - [2024] A Survey of Recent Advances in Optimization Methods for Wireless Communications, IEEE JSAC [[Paper](https://ieeexplore.ieee.org/abstract/document/10636212)]
