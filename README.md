@@ -218,6 +218,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2020] The Nonsmooth Landscape of Phase Retrieval, IMANUM [[Paper](https://academic.oup.com/imajna/article/40/4/2652/5684995)] 
 - [2020] Unfolded Algorithms for Deep Phase Retrieval, arXiv [[Paper](https://arxiv.org/abs/2012.11102)]
 - [2019] Optimal Spectral Initialization for Signal Recovery With Applications to Phase Retrieval, IEEE TSP  [[Paper](https://ieeexplore.ieee.org/abstract/document/8666737)]
+- [2018] PhaseMax: Convex Phase Retrieval via Basis Pursuit, IEEE TIT  [[Paper](https://ieeexplore.ieee.org/abstract/document/8278279)]
 - [2018] Solving Systems of Random Quadratic Equations via Truncated Amplitude Flow, IEEE TIT  [[Paper](https://ieeexplore.ieee.org/abstract/document/8049465)]
 - [2018] Fundamental Limits of Weak Recovery with Applications to Phase Retrieval, COLT [[Paper](https://proceedings.mlr.press/v75/mondelli18a.html)]
 - [2018] prDeep: Robust Phase Retrieval with a Flexible Deep Network, ICML [[Paper](https://proceedings.mlr.press/v80/metzler18a.html)]
