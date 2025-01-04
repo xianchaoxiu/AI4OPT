@@ -210,7 +210,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2023] Unfolding-Aided Bootstrapped Phase Retrieval in Optical Imaging: Explainable AI Reveals New Imaging Frontiers, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10054189)] 
 - [2023] Phase Retrieval: From Computational Imaging to Machine Learning: A Tutorial, IEEE MSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10004797)] 
 - [2023] A Novel Iterative Algorithm for Outlier Robust Phase Retrieval via Majorization Minimization Technique, IEEE TIM [[Paper](https://ieeexplore.ieee.org/document/10237277)]
-- [2022] Solving Phase Retrieval with Random Initial Guess is Nearly As Good As by Spectral Initialization, ACHA [[https://www.sciencedirect.com/science/article/abs/pii/S1063520322000021)]
+- [2022] Solving Phase Retrieval with Random Initial Guess is Nearly As Good As by Spectral Initialization, ACHA [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1063520322000021)]
 - [2022] Plug-and-Play Pixel Super-Resolution Phase Retrieval for Digital Holography, OL [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-11-2658)]
 - [2021] Physics-Based Iterative Projection Complex Neural Network for Phase Retrieval in Lensless Microscopy Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Physics-Based_Iterative_Projection_Complex_Neural_Network_for_Phase_Retrieval_in_CVPR_2021_paper.html)]
 - [2020] Phase Retrieval in High Dimensions: Statistical and Computational Phase Transitions, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/7ec0dbeee45813422897e04ad8424a5e-Abstract.html)] 
