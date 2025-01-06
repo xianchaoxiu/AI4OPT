@@ -17,7 +17,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="Surveys" />
 
 ## Surveys
-- [2024] A Survey on LLMM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
+- [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
 - [2024] A Survey of Mathematica Reasoning in the Era of Multimodal LargeLanguage Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
 - [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
