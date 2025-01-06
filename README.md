@@ -147,6 +147,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 ## Large Language Model (LLM)
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
+- [2024] Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, arXiv [[Paper](https://arxiv.org/abs/2402.11592)]
+- [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
 - [2024] Does Prompt Formatting Have Any Impact on LLM Performance, arXiv [[Paper](https://arxiv.org/abs/2411.10541)]
 - [2024] Sparsing Law: Towards Large Language Models with Greater Activation Sparsity, arXiv [[Paper](https://arxiv.org/abs/2411.02335)] 
 - [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
