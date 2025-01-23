@@ -17,7 +17,12 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="Surveys" />
 
 ## Surveys
-
+- [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
+- [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
+- [2025] Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities, arXiv [[Paper](https://arxiv.org/abs/2501.09686)] 
+- [2025] A Survey on Large Language Models with some Insights on their Capabilities and Limitations, arXiv [[Paper](https://arxiv.org/abs/2501.04040)]
+- [2024] Personalization of Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2411.00027)] 
+- [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
 - [2024] A Survey of Mathematica Reasoning in the Era of Multimodal LargeLanguage Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
 - [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
@@ -148,11 +153,6 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 ## Large Language Model (LLM)
 
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
-- [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
-- [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
-- [2025] Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities, arXiv [[Paper](https://arxiv.org/abs/2501.09686)] 
-- [2025] A Survey on Large Language Models with some Insights on their Capabilities and Limitations arXiv [[Paper](https://arxiv.org/abs/2501.04040)] 
-- [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
 - [2024] Formal Mathematical Reasoning: A New Frontier in AI, arXiv [[Paper](https://arxiv.org/abs/2412.16075)]
