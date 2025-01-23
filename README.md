@@ -10,7 +10,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Resources](#Resources)
 
   
-<strong> Last Update: 2024/12/23 </strong>
+<strong> Last Update: 2025/01/23 </strong>
 
 
 
