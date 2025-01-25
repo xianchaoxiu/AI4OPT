@@ -6,8 +6,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Deep Unfolding (DU)](#DU)
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
+- [Others](#Others)
 - [Applications](#Applications)
-- [Resources](#Resources)
+
 
   
 <strong> Last Update: 2025/01/23 </strong>
@@ -173,6 +174,17 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 
 
+<a name="Others" />
+
+## Others
+
+- [2025] SILO: Solving Inverse Problems with Latent Operators, arXiv [[Paper](https://arxiv.org/abs/2501.11746)]
+- [2024] A Survey on Diffusion Models for Inverse Problems, arXiv [[Paper](https://arxiv.org/abs/2410.00083)]
+
+
+
+
+
 <a name="Applications" />
 
 ## Applications
@@ -222,12 +234,4 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2015] Support Matrix Machines, ICML [[Paper](https://proceedings.mlr.press/v37/luo15.html)] 
 
 
-<a name="Resources" />
-
-## Resources
-
-- Learning to Optimize [[Link](https://github.com/VITA-Group/Open-L2O)]
-- Federated Machine Learning [[Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
-- Phase Recovery [[Link](https://github.com/kqwang/phase-recovery)]
-- Clustering Datasets [[Link](https://github.com/milaan9/Clustering-Datasets)]
 
