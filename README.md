@@ -75,6 +75,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="DU" />
 
 ## Deep Unfolding (DU)
+- [2024]Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10487002)] [[Code](https://github.com/jiahong-fu/Equivariant-Proximal-Operator)]
 - [2024] Deep, Convergent, Unrolled Half-Quadratic Splitting for Image Deconvolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10478818/)]
 - [2024] LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network, arXiv [[Paper](https://arxiv.org/abs/2406.01028)]    
 - [2024] Enhancing Low-Light Light Field Images With a Deep Compensation Unfolding Network, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10586875)] [[Code](https://github.com/lyuxianqiang/LFLL-DCU)]
@@ -148,7 +149,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
-
+- [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
+- [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
@@ -180,6 +182,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 
 - [2025] SILO: Solving Inverse Problems with Latent Operators, arXiv [[Paper](https://arxiv.org/abs/2501.11746)]
 - [2024] A Survey on Diffusion Models for Inverse Problems, arXiv [[Paper](https://arxiv.org/abs/2410.00083)]
+- [2021] Evolutionary Multiobjective Optimization Driven by Generative Adversarial Networks (GANs), IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9082904)]
 
 
 
