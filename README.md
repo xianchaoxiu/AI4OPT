@@ -6,7 +6,6 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [Deep Unfolding (DU)](#DU)
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
-- [Others](#Others)
 - [Applications](#Applications)
 
 
@@ -45,6 +44,9 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="PnP" />
 
 ## Plug-and-Play (PnP)
+- [2025] SILO: Solving Inverse Problems with Latent Operators, arXiv [[Paper](https://arxiv.org/abs/2501.11746)]
+- [2024] A Survey on Diffusion Models for Inverse Problems, arXiv [[Paper](https://arxiv.org/abs/2410.00083)]
+- [2024] DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models, NeurIPS [[Paper](https://arxiv.org/pdf/2405.16749)]  [[Code](https://github.com/sun-umn/DMPlug)]
 - [2024] Convergent Plug-and-Play with Proximal Denoiser and Unconstrained Regularization Parameter, JMIV [[Paper](https://link.springer.com/article/10.1007/s10851-024-01195-w)]
 - [2023] Block Coordinate Plug-and-Play Methods for Blind Inverse Problems, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f810c2ba07bae78dfe9d25c5d40c5536-Abstract-Conference.html)]
 - [2022] Plug-and-Play Image Restoration With Deep Denoiser Prior, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9454311)] [[Code](https://github.com/cszn/DPIR)]
@@ -175,14 +177,6 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
 
 
-
-<a name="Others" />
-
-## Others
-
-- [2025] SILO: Solving Inverse Problems with Latent Operators, arXiv [[Paper](https://arxiv.org/abs/2501.11746)]
-- [2024] A Survey on Diffusion Models for Inverse Problems, arXiv [[Paper](https://arxiv.org/abs/2410.00083)]
-- [2021] Evolutionary Multiobjective Optimization Driven by Generative Adversarial Networks (GANs), IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9082904)]
 
 
 
