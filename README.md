@@ -17,6 +17,7 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects, arXiv [[Paper](https://arxiv.org/abs/2501.06572)] 
 - [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
 - [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
 - [2024] A Survey of Mathematica Reasoning in the Era of Multimodal LargeLanguage Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
