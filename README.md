@@ -78,7 +78,8 @@ I currently focus on artificial intelligence for optimization (AI4OPT) including
 <a name="DU" />
 
 ## Deep Unfolding (DU)
-- [2024]Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10487002)] [[Code](https://github.com/jiahong-fu/Equivariant-Proximal-Operator)]
+- [2025] Practical Compact Deep Compressed Sensing, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10763443)]
+- [2024] Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10487002)] [[Code](https://github.com/jiahong-fu/Equivariant-Proximal-Operator)]
 - [2024] Deep, Convergent, Unrolled Half-Quadratic Splitting for Image Deconvolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10478818/)]
 - [2024] LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network, arXiv [[Paper](https://arxiv.org/abs/2406.01028)]    
 - [2024] Enhancing Low-Light Light Field Images With a Deep Compensation Unfolding Network, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10586875)] [[Code](https://github.com/lyuxianqiang/LFLL-DCU)]
