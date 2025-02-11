@@ -1,6 +1,6 @@
-# Artificial Intelligence for Optimization (AI4OPT)
+# Artificial Intelligence for Mathematical Optimization
 
-I currently focus on artificial intelligence for optimization (AI4OPT) including
+I currently focus on artificial intelligence for mathematical optimization  including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unfolding (DU)](#DU)
