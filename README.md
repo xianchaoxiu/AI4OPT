@@ -1,7 +1,4 @@
 # Artificial Intelligence for Optimization (AI4OPT)
-<p align="center">
-  <img src="images/OptiMUS.png" width="600"><br>
-</p>
 
 
 I currently focus on artificial intelligence for optimization  including
