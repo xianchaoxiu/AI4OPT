@@ -1,4 +1,8 @@
 # Artificial Intelligence for Mathematical Optimization
+<p align="center">
+  <img src="images/OptiMUS.png" width="600"><br>
+</p>
+
 
 I currently focus on artificial intelligence for mathematical optimization  including
 - [Surveys](#Surveys)
