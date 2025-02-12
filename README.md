@@ -158,10 +158,13 @@ I currently focus on artificial intelligence for mathematical optimization  incl
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH, arXiv [[Paper](https://arxiv.org/pdf/2501.18576)]
 - [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
+- [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
+- [2024] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)]
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
