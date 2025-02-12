@@ -1,10 +1,10 @@
-# Artificial Intelligence for Mathematical Optimization
+# Artificial Intelligence for Optimization (AI4OPT)
 <p align="center">
   <img src="images/OptiMUS.jpg" width="600"><br>
 </p>
 
 
-I currently focus on artificial intelligence for mathematical optimization  including
+I currently focus on artificial intelligence for optimization  including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unfolding (DU)](#DU)
