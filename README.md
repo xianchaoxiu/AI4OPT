@@ -158,6 +158,7 @@ I currently focus on artificial intelligence for mathematical optimization  incl
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH, arXiv [[Paper](https://arxiv.org/abs/2501.18576)] 
 - [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
