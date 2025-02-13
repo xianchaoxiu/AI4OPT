@@ -186,7 +186,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
 - [2023] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
-
+- [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
 
 
