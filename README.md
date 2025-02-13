@@ -221,6 +221,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/10521775/)]
 - [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
 - [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
+- [2024] ICE-SEARCH: A Language Model-Driven Feature Selection Approach, arXiv [[Paper](https://arxiv.org/abs/2402.18609)]
 - [2024] Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion, ACM MM [[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681223)]
 - [2024] Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization, arXiv [[Paper](https://arxiv.org/abs/2403.16966)]
 - [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Code](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
