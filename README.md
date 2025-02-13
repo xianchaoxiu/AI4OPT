@@ -181,10 +181,10 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Code](https://github.com/EleutherAI/math-lm)]
 - [2024] LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems, INFOR  [[Paper](https://www.tandfonline.com/doi/full/10.1080/03155986.2024.2388452)]
 - [2024] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR  [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
-- [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] 
+- [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)]
+- [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
-- [2023] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
