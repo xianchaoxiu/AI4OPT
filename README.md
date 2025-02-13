@@ -155,12 +155,14 @@ I currently focus on artificial intelligence for optimization  including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
 - [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)] 
 - [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
 - [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
+- [2024] Offline Reinforcement Learning for LLM Multi-Step Reasoning, arXiv [[Paper](https://arxiv.org/abs/2412.16145)]
 - [2024] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)]
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
