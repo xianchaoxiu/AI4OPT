@@ -219,18 +219,12 @@ I currently focus on artificial intelligence for optimization  including
   
 ### Feature Selection
 
-- [2024] Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/10521775/)]
-- [2024] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, arXiv [[Paper](https://arxiv.org/abs/2408.12025)]
+- [2025] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3715073.3715077)]
+- [2024] Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.01795)]  [[Code](https://github.com/PennShenLab/FREEFORMS)]
+- [2024] Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning, ICML [[Paper](https://arxiv.org/abs/2404.09491)]
 - [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
 - [2024] ICE-SEARCH: A Language Model-Driven Feature Selection Approach, arXiv [[Paper](https://arxiv.org/abs/2402.18609)]
-- [2024] Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion, ACM MM [[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681223)]
-- [2024] Unsupervised Feature Selection via Nonnegative Orthogonal Constrained Regularized Minimization, arXiv [[Paper](https://arxiv.org/abs/2403.16966)]
-- [2024] Federated PCA on Grassmann Manifold for IoT Anomaly Detection, IEEE TNET [[Paper](https://ieeexplore.ieee.org/abstract/document/10593810)]  [[Code](https://github.com/dual-grp/FedPCA_AnomalyDetection)]
-- [2024] Bi-Level Spectral Feature Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10562273)]
-- [2024] Unsupervised Discriminative Feature Selection via Contrastive Graph Learning, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10410215)]
-- [2023] Automated Feature Selection: A Reinforcement Learning Perspective, IEEE TKDE [[Paper](https://ieeexplore.ieee.org/abstract/document/9547816/)] 
-- [2023] Federated Feature Selection for Horizontal Federated Learning in IoT Networks, IEEE JIOT [[Paper](https://ieeexplore.ieee.org/abstract/document/10017376)]
-- [2023] Federated Learning for Sparse Principal Component Analysis, BigData [[Paper](https://ieeexplore.ieee.org/abstract/document/10386231)] 
-- [2018] Adaptive Unsupervised Feature Selection With Structure Regularization, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/7835729/)] 
-- [2017] Feature Selection Based on Structured Sparsity: A Comprehensive Study, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/7458185/)] 
+- [2022] LMPriors: Pre-Trained Language Models as Task-Specific Priors, NeurIPS [[Paper](https://openreview.net/forum?id=U2MnmJ7Sa4)]
+
+
 
