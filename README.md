@@ -227,4 +227,11 @@ I currently focus on artificial intelligence for optimization  including
 - [2022] LMPriors: Pre-Trained Language Models as Task-Specific Priors, NeurIPS [[Paper](https://openreview.net/forum?id=U2MnmJ7Sa4)]
 
 
+### Feature Selection
+- [2025] Sequential Large Language Model-Based Hyperparameter Optimization, arXiv [[Paper](https://arxiv.org/abs/2410.20302)]
+- [2024] Improving Hyperparameter Optimization with Checkpointed Model Weights, arXiv [[Paper](https://arxiv.org/abs/2406.18630)]  [[Code](https://github.com/NVlabs/forecasting-model-search)]
+- [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
+- [2022] Towards Learning Universal Hyperparameter Optimizers with Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf6501108fced72ee5c47e2151c4e153-Abstract-Conference.html)]
+- [2021] HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO, NeurIPS [[Paper](https://openreview.net/forum?id=1k4rJYEwda-)] [[Code](https://github.com/automl/HPOBench)]
+
 
