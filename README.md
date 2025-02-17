@@ -206,15 +206,11 @@ I currently focus on artificial intelligence for optimization  including
 
 - [2024] Deep Clustering: A Comprehensive Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10585323)]
 - [2024] A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions, ACM CSUR [[Paper](https://dl.acm.org/doi/abs/10.1145/3689036)]
-- [2024] A Survey and an Empirical Evaluation of Multi-View Clustering Approaches, ACM CSUR [[Paper](https://dl.acm.org/doi/abs/10.1145/3645108)]
-- [2024] Flexible and Parameter-Free Graph Learning for Multi-View Spectral Clustering, IEEE TCSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/10483017)]
 - [2023] Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning, IEEE TMM [[Paper](https://ieeexplore.ieee.org/abstract/document/10080867)]
 - [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9439159)]
 - [2022] Efficient Deep Embedded Subspace Clustering, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cai_Efficient_Deep_Embedded_Subspace_Clustering_CVPR_2022_paper.html)]
 - [2019] Self-Supervised Convolutional Subspace Clustering Network, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.html)]
 - [2017] Sparse Subspace Clustering by Learning Approximation L0 Codes, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10782)]
-- [2015] Multi-View Subspace Clustering, ICCV [[Paper](https://openaccess.thecvf.com/content_iccv_2015/html/Gao_Multi-View_Subspace_Clustering_ICCV_2015_paper.html)]
-- [2013] Robust Recovery of Subspace Structures by Low-Rank Representation, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/6180173/)]
 
   
 ### Feature Selection
