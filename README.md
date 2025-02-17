@@ -11,7 +11,7 @@ I currently focus on artificial intelligence for optimization  including
 
 
   
-<strong> Last Update: 2025/01/23 </strong>
+<strong> Last Update: 2025/02/17 </strong>
 
 
 
@@ -156,6 +156,8 @@ I currently focus on artificial intelligence for optimization  including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates, arXiv [[Paper](https://arxiv.org/abs/2502.06772)]  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
+- [2025] LIMO: Less is More for Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.03387v1)]  [[Code](https://github.com/GAIR-NLP/LIMO)]
 - [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
 - [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)]
 - [2025] o3-mini vs DeepSeek-R1: Which One is Safer?, arXiv [[Paper](https://arxiv.org/pdf/2501.18438)]
