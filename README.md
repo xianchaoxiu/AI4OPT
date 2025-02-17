@@ -228,6 +228,7 @@ I currently focus on artificial intelligence for optimization  including
 
 
 ### Hyperparameter Optimization
+- [2025] Large Language Model-based Nonnegative Matrix Factorization For Cardiorespiratory Sound Separation, arXiv [[Paper](https://arxiv.org/abs/2502.05757)]  [[Code](https://github.com/Torabiy/LingoNMF)]
 - [2025] Sequential Large Language Model-Based Hyperparameter Optimization, arXiv [[Paper](https://arxiv.org/abs/2410.20302)]
 - [2024] Improving Hyperparameter Optimization with Checkpointed Model Weights, arXiv [[Paper](https://arxiv.org/abs/2406.18630)]  [[Code](https://github.com/NVlabs/forecasting-model-search)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
