@@ -218,7 +218,7 @@ I currently focus on artificial intelligence for optimization  including
 ### Feature Selection
 
 - [2025] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3715073.3715077)]
-- [2024] Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.01795)]  [[Code](https://github.com/PennShenLab/FREEFORMS)]
+- [2024] Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.01795)]  [[Code](https://github.com/pennshenlab/freeform)]
 - [2024] Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning, ICML [[Paper](https://arxiv.org/abs/2404.09491)]
 - [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
 - [2024] ICE-SEARCH: A Language Model-Driven Feature Selection Approach, arXiv [[Paper](https://arxiv.org/abs/2402.18609)]
