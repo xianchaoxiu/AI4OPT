@@ -8,7 +8,7 @@ I currently focus on artificial intelligence for optimization  including
 - [Deep Equilibrium (DEQ)](#DEQ)
 - [Large Language Model (LLM)](#LLM)
 - [Applications](#Applications)
-
+- [Tools](#Tools)
 
   
 <strong> Last Update: 2025/02/17 </strong>
@@ -234,3 +234,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2021] HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO, NeurIPS [[Paper](https://openreview.net/forum?id=1k4rJYEwda-)] [[Code](https://github.com/automl/HPOBench)]
 
 
+<a name="Tools" />
+
+## Tools
+- scikit-learn [[Link](https://scikit-learn.org/stable/index.html)]  
