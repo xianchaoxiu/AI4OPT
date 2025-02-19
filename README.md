@@ -157,6 +157,7 @@ I currently focus on artificial intelligence for optimization  including
 
 ## Large Language Model (LLM)
 - [2025] ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates, arXiv [[Paper](https://arxiv.org/abs/2502.06772)]  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
+- [2025] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IJCNN  [[Paper](https://arxiv.org/abs/2405.07212)]
 - [2025] LIMO: Less is More for Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.03387v1)]  [[Code](https://github.com/GAIR-NLP/LIMO)]
 - [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
 - [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)]
@@ -166,11 +167,14 @@ I currently focus on artificial intelligence for optimization  including
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
+- [2024] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]  [[Code](https://anonymous.4open.science/r/LLaMoCo-722A)]
+- [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]  [[Code](https://github.com/guozix/LLM-catalyst)]
 - [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
 - [2024] Offline Reinforcement Learning for LLM Multi-Step Reasoning, arXiv [[Paper](https://arxiv.org/abs/2412.16145)]
 - [2024] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)]
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
+- [2024] StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving, NeurIPS [[Paper](https://arxiv.org/abs/2311.08803)]
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
 - [2024] Formal Mathematical Reasoning: A New Frontier in AI, arXiv [[Paper](https://arxiv.org/abs/2412.16075)]
 - [2024] Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, arXiv [[Paper](https://arxiv.org/abs/2402.11592)]
@@ -180,6 +184,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
 - [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
 - [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
+- [2024] Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, ICLR [[Paper](https://openreview.net/forum?id=ZG3RaNIsO8)]
 - [2024] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://openreview.net/forum?id=BAakY1hNKS#discussion)]  [[Code](https://github.com/teshnizi/OptiMUS)]
 - [2024] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations, COLM [[Paper](https://arxiv.org/abs/2407.19633)] 
 - [2024] Autoformulation of Mathematical Optimization Models Using LLMs, arXiv [[Paper](https://arxiv.org/abs/2411.01679)] 
@@ -193,6 +198,8 @@ I currently focus on artificial intelligence for optimization  including
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
+- [2023] Large language models are human-level prompt engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
+- [2023] Automatic Prompt Optimization with "Gradient Descent" and Beam Search, EMNLP [[Paper](https://openreview.net/forum?id=WRYhaSrThy)]
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
 
