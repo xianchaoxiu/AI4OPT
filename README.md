@@ -18,12 +18,7 @@ I currently focus on artificial intelligence for optimization  including
 <a name="Surveys" />
 
 ## Surveys
-- [2025] An Overview of Large Language Models for Statisticians, arXiv [[Paper](https://arxiv.org/abs/2502.17814)] 
-- [2025] Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects, arXiv [[Paper](https://arxiv.org/abs/2501.06572)] 
 - [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
-- [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
-- [2024] A Survey of Mathematica Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
-- [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
 - [2024] A Survey of Recent Advances in Optimization Methods for Wireless Communications, IEEE JSAC [[Paper](https://ieeexplore.ieee.org/abstract/document/10636212)]
@@ -157,22 +152,11 @@ I currently focus on artificial intelligence for optimization  including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
-- [2025] ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates, arXiv [[Paper](https://arxiv.org/abs/2502.06772)]  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
-- [2025] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IJCNN  [[Paper](https://arxiv.org/abs/2405.07212)]
-- [2025] LIMO: Less is More for Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.03387v1)]  [[Code](https://github.com/GAIR-NLP/LIMO)]
-- [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
-- [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)]
-- [2025] o3-mini vs DeepSeek-R1: Which One is Safer?, arXiv [[Paper](https://arxiv.org/pdf/2501.18438)]
-- [2025] Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH, arXiv [[Paper](https://arxiv.org/abs/2501.18576)]
-- [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
 - [2024] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]  [[Code](https://anonymous.4open.science/r/LLaMoCo-722A)]
 - [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]  [[Code](https://github.com/guozix/LLM-catalyst)]
-- [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
-- [2024] Offline Reinforcement Learning for LLM Multi-Step Reasoning, arXiv [[Paper](https://arxiv.org/abs/2412.16145)]
-- [2024] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)]
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
 - [2024] StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving, NeurIPS [[Paper](https://arxiv.org/abs/2311.08803)]
@@ -180,8 +164,6 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] Formal Mathematical Reasoning: A New Frontier in AI, arXiv [[Paper](https://arxiv.org/abs/2412.16075)]
 - [2024] Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, arXiv [[Paper](https://arxiv.org/abs/2402.11592)]
 - [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
-- [2024] Does Prompt Formatting Have Any Impact on LLM Performance, arXiv [[Paper](https://arxiv.org/abs/2411.10541)]
-- [2024] Sparsing Law: Towards Large Language Models with Greater Activation Sparsity, arXiv [[Paper](https://arxiv.org/abs/2411.02335)] 
 - [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
 - [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
 - [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
@@ -241,6 +223,28 @@ I currently focus on artificial intelligence for optimization  including
 - [2022] Towards Learning Universal Hyperparameter Optimizers with Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf6501108fced72ee5c47e2151c4e153-Abstract-Conference.html)]
 - [2021] HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO, NeurIPS [[Paper](https://openreview.net/forum?id=1k4rJYEwda-)] [[Code](https://github.com/automl/HPOBench)]
 
+
+### Others
+- [2025] Large Language Models for Automated Scholarly Paper Review: A Survey, arXiv [[Paper](https://arxiv.org/abs/2501.10326)] 
+- [2025] From System 1 to System 2: A Survey of Reasoning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.17419)] 
+- [2025] An Overview of Large Language Models for Statisticians, arXiv [[Paper](https://arxiv.org/abs/2502.17814)] 
+- [2025] Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects, arXiv [[Paper](https://arxiv.org/abs/2501.06572)] 
+- [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
+- [2025] Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.06781)] 
+- [2025] ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates, arXiv [[Paper](https://arxiv.org/abs/2502.06772)]  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
+- [2025] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IJCNN  [[Paper](https://arxiv.org/abs/2405.07212)]
+- [2025] LIMO: Less is More for Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.03387v1)]  [[Code](https://github.com/GAIR-NLP/LIMO)]
+- [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
+- [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)]
+- [2025] o3-mini vs DeepSeek-R1: Which One is Safer?, arXiv [[Paper](https://arxiv.org/pdf/2501.18438)]
+- [2025] Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH, arXiv [[Paper](https://arxiv.org/abs/2501.18576)]
+- [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
+- [2024] A Survey of Mathematica Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
+- [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
+- [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
+- [2024] Offline Reinforcement Learning for LLM Multi-Step Reasoning, arXiv [[Paper](https://arxiv.org/abs/2412.16145)]
+- [2024] Does Prompt Formatting Have Any Impact on LLM Performance, arXiv [[Paper](https://arxiv.org/abs/2411.10541)]
+- [2024] Sparsing Law: Towards Large Language Models with Greater Activation Sparsity, arXiv [[Paper](https://arxiv.org/abs/2411.02335)] 
 
 <a name="Tools" />
 
