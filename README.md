@@ -225,6 +225,7 @@ I currently focus on artificial intelligence for optimization  including
 
 
 ### Others
+- [2025] Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.09567)]  [[Code](https://long-cot.github.io/)]
 - [2025] Large Language Models for Automated Scholarly Paper Review: A Survey, arXiv [[Paper](https://arxiv.org/abs/2501.10326)] 
 - [2025] From System 1 to System 2: A Survey of Reasoning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.17419)] 
 - [2025] An Overview of Large Language Models for Statisticians, arXiv [[Paper](https://arxiv.org/abs/2502.17814)] 
