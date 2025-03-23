@@ -152,6 +152,7 @@ I currently focus on artificial intelligence for optimization  including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
