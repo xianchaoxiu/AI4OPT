@@ -153,6 +153,7 @@ I currently focus on artificial intelligence for optimization  including
 <a name="LLM" />
 
 ## Large Language Model (LLM)
+- [2025] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
 - [2025] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
@@ -168,7 +169,6 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
 - [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
 - [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
-- [2024] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
 - [2024] Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, ICLR [[Paper](https://openreview.net/forum?id=ZG3RaNIsO8)]
 - [2024] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://openreview.net/forum?id=BAakY1hNKS#discussion)]  [[Code](https://github.com/teshnizi/OptiMUS)]
 - [2024] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations, COLM [[Paper](https://arxiv.org/abs/2407.19633)] 
