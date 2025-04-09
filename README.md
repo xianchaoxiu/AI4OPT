@@ -158,6 +158,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
+- [2024] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, arXiv  [[Paper](https://export.arxiv.org/abs/2407.09887)]  [[Code](https://github.com/yangzhch6/ReSocratic)]
 - [2024] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]  [[Code](https://anonymous.4open.science/r/LLaMoCo-722A)]
 - [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]  [[Code](https://github.com/guozix/LLM-catalyst)]
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
