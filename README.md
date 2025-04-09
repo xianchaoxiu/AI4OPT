@@ -18,6 +18,7 @@ I currently focus on artificial intelligence for optimization  including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] A Survey on the Optimization of Large Language Model-based Agents, arXiv [[Paper](https://arxiv.org/abs/2503.12434)] 
 - [2025] Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond, arXiv [[Paper](https://arxiv.org/abs/2501.10945)] 
 - [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
