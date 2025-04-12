@@ -183,7 +183,7 @@ I currently focus on artificial intelligence for optimization  including
 - [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)]
 - [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
-- [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]
+- [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]  [[Code](https://github.com/FeiLiu36/LLM4MOEA)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
 - [2023] Large language models are human-level prompt engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
 - [2023] Automatic Prompt Optimization with "Gradient Descent" and Beam Search, EMNLP [[Paper](https://openreview.net/forum?id=WRYhaSrThy)]
