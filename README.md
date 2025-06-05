@@ -9,7 +9,7 @@ I currently focus on artificial intelligence for optimization including
 
 
 > [!IMPORTANT]
-> **Last Update: 2025/02/01 (No longer updated) .**
+> **Last Update: 2025/02/01 (No longer updated)**
 
 
 
