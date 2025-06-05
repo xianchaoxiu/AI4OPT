@@ -1,27 +1,20 @@
 # Artificial Intelligence for Optimization (AI4OPT)
 
 
-I currently focus on artificial intelligence for optimization  including
+I currently focus on artificial intelligence for optimization including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unfolding (DU)](#DU)
 - [Deep Equilibrium (DEQ)](#DEQ)
-- [Large Language Model (LLM)](#LLM)
-- [Applications](#Applications)
-- [Tools](#Tools)
 
   
-<strong> Last Update: 2025/04/09 </strong>
+<strong> Last Update: 2025/02/01 (No longer updated！) </strong>
 
 
 
 <a name="Surveys" />
 
 ## Surveys
-- [2025] A Survey on the Optimization of Large Language Model-based Agents, arXiv [[Paper](https://arxiv.org/abs/2503.12434)] 
-- [2025] Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond, arXiv [[Paper](https://arxiv.org/abs/2501.10945)] 
-- [2025] Language Models for Code Optimization: Survey, Challenges and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2501.01277)] 
-- [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization, SCCM [[Paper](https://link.springer.com/article/10.1007/s11425-023-2293-3)]
 - [2024] A Survey of Recent Advances in Optimization Methods for Wireless Communications, IEEE JSAC [[Paper](https://ieeexplore.ieee.org/abstract/document/10636212)]
 - [2024] Image Compressed Sensing: From Deep Learning to Adaptive Learning, KBS [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124002946)]
@@ -73,7 +66,6 @@ I currently focus on artificial intelligence for optimization  including
 
 
 
-
 <a name="DU" />
 
 ## Deep Unfolding (DU)
@@ -122,7 +114,6 @@ I currently focus on artificial intelligence for optimization  including
 
 
 
-
 <a name="DEQ" />
 
 ## Deep Equilibrium (DEQ)
@@ -150,108 +141,4 @@ I currently focus on artificial intelligence for optimization  including
 - [2019] Deep Equilibrium Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2019/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html)] [[Code](https://github.com/locuslab/deq)]
 
 
-  
-<a name="LLM" />
 
-## Large Language Model (LLM)
-- [2025] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
-- [2025] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
-- [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
-- [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
-- [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
-- [2024] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, arXiv  [[Paper](https://export.arxiv.org/abs/2407.09887)]  [[Code](https://github.com/yangzhch6/ReSocratic)]
-- [2024] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]  [[Code](https://anonymous.4open.science/r/LLaMoCo-722A)]
-- [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]  [[Code](https://github.com/guozix/LLM-catalyst)]
-- [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
-- [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
-- [2024] StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving, NeurIPS [[Paper](https://arxiv.org/abs/2311.08803)]
-- [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
-- [2024] Formal Mathematical Reasoning: A New Frontier in AI, arXiv [[Paper](https://arxiv.org/abs/2412.16075)]
-- [2024] Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, ICML [[Paper](https://arxiv.org/abs/2402.11592)]
-- [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
-- [2024] Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.13791)] 
-- [2024] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, arXiv [[Paper](https://arxiv.org/abs/2410.13213)]  [[Code](https://github.com/caigaojiang/LLMOPT)]
-- [2024] Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers, ICLR [[Paper](https://openreview.net/forum?id=ZG3RaNIsO8)]
-- [2024] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]  [[Code](https://github.com/teshnizi/OptiMUS)]
-- [2024] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations, COLM [[Paper](https://openreview.net/forum?id=BAakY1hNKS#discussion)] 
-- [2024] Autoformulation of Mathematical Optimization Models Using LLMs, arXiv [[Paper](https://arxiv.org/abs/2411.01679)] 
-- [2024] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://arxiv.org/abs/2402.10172)] [[Code](https://github.com/teshnizi/OptiMUS)]
-- [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
-- [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Code](https://github.com/EleutherAI/math-lm)]
-- [2024] LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems, INFOR  [[Paper](https://www.tandfonline.com/doi/full/10.1080/03155986.2024.2388452)]
-- [2024] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR  [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
-- [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)]
-- [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
-- [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
-- [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]  [[Code](https://github.com/FeiLiu36/LLM4MOEA)]
-- [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
-- [2023] Large language models are human-level prompt engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
-- [2023] Automatic Prompt Optimization with "Gradient Descent" and Beam Search, EMNLP [[Paper](https://openreview.net/forum?id=WRYhaSrThy)]
-- [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
-
-
-
-
-
-
-<a name="Applications" />
-
-## Applications
-
-### Clustering
-
-- [2024] Deep Clustering: A Comprehensive Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10585323)]
-- [2024] A Comprehensive Survey on Deep Clustering: Taxonomy, Challenges, and Future Directions, ACM CSUR [[Paper](https://dl.acm.org/doi/abs/10.1145/3689036)]
-- [2023] Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning, IEEE TMM [[Paper](https://ieeexplore.ieee.org/abstract/document/10080867)]
-- [2022] Learning Deep Sparse Regularizers With Applications to Multi-View Clustering and Semi-Supervised Classification, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/9439159)]
-- [2022] Efficient Deep Embedded Subspace Clustering, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Cai_Efficient_Deep_Embedded_Subspace_Clustering_CVPR_2022_paper.html)]
-- [2019] Self-Supervised Convolutional Subspace Clustering Network, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.html)]
-- [2017] Sparse Subspace Clustering by Learning Approximation L0 Codes, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10782)]
-
-  
-### Feature Selection
-
-- [2025] Exploring Large Language Models for Feature Selection: A Data-centric Perspective, SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3715073.3715077)]
-- [2024] Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.01795)]  [[Code](https://github.com/pennshenlab/freeform)]
-- [2024] Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning, ICML [[Paper](https://arxiv.org/abs/2404.09491)]
-- [2024] LLM-Select: Feature Selection with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.02694)]
-- [2024] ICE-SEARCH: A Language Model-Driven Feature Selection Approach, arXiv [[Paper](https://arxiv.org/abs/2402.18609)]
-- [2022] LMPriors: Pre-Trained Language Models as Task-Specific Priors, NeurIPS [[Paper](https://openreview.net/forum?id=U2MnmJ7Sa4)]
-
-
-### Hyperparameter Optimization
-- [2025] Large Language Model-based Nonnegative Matrix Factorization For Cardiorespiratory Sound Separation, arXiv [[Paper](https://arxiv.org/abs/2502.05757)]  [[Code](https://github.com/Torabiy/LingoNMF)]
-- [2025] Sequential Large Language Model-Based Hyperparameter Optimization, arXiv [[Paper](https://arxiv.org/abs/2410.20302)]
-- [2024] Improving Hyperparameter Optimization with Checkpointed Model Weights, arXiv [[Paper](https://arxiv.org/abs/2406.18630)]  [[Code](https://github.com/NVlabs/forecasting-model-search)]
-- [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
-- [2022] Towards Learning Universal Hyperparameter Optimizers with Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf6501108fced72ee5c47e2151c4e153-Abstract-Conference.html)]
-- [2021] HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO, NeurIPS [[Paper](https://openreview.net/forum?id=1k4rJYEwda-)] [[Code](https://github.com/automl/HPOBench)]
-
-
-### Others
-- [2025] Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.09567)]  [[Code](https://long-cot.github.io/)]
-- [2025] Large Language Models for Automated Scholarly Paper Review: A Survey, arXiv [[Paper](https://arxiv.org/abs/2501.10326)] 
-- [2025] From System 1 to System 2: A Survey of Reasoning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.17419)] 
-- [2025] An Overview of Large Language Models for Statisticians, arXiv [[Paper](https://arxiv.org/abs/2502.17814)] 
-- [2025] Physics-Informed Neuro-Evolution (PINE): A Survey and Prospects, arXiv [[Paper](https://arxiv.org/abs/2501.06572)] 
-- [2025] LLM4SR: A Survey on Large Language Models for Scientific Research, arXiv [[Paper](https://arxiv.org/abs/2501.04306)] 
-- [2025] Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.06781)] 
-- [2025] ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates, arXiv [[Paper](https://arxiv.org/abs/2502.06772)]  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
-- [2025] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IJCNN  [[Paper](https://arxiv.org/abs/2405.07212)]
-- [2025] LIMO: Less is More for Reasoning, arXiv [[Paper](https://arxiv.org/abs/2502.03387v1)]  [[Code](https://github.com/GAIR-NLP/LIMO)]
-- [2025] Reasoning Language Models: A Blueprint, arXiv [[Paper](https://arxiv.org/abs/2501.11223)] 
-- [2025] A Comparison of DeepSeek and Other LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.03688)]
-- [2025] o3-mini vs DeepSeek-R1: Which One is Safer?, arXiv [[Paper](https://arxiv.org/pdf/2501.18438)]
-- [2025] Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH, arXiv [[Paper](https://arxiv.org/abs/2501.18576)]
-- [2025] S1: Simple Test-time Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.19393)]  [[Code](https://github.com/simplescaling/s1)]
-- [2024] A Survey of Mathematica Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges, arXiv [[Paper](https://arxiv.org/abs/2412.11936)]
-- [2024] A Survey on Large Language Model-based Agents for Statistics and Data Science, arXiv [[Paper](https://arxiv.org/pdf/2412.14222)]
-- [2024] Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability, arXiv [[Paper](https://arxiv.org/abs/2411.19943)]
-- [2024] Offline Reinforcement Learning for LLM Multi-Step Reasoning, arXiv [[Paper](https://arxiv.org/abs/2412.16145)]
-- [2024] Does Prompt Formatting Have Any Impact on LLM Performance, arXiv [[Paper](https://arxiv.org/abs/2411.10541)]
-- [2024] Sparsing Law: Towards Large Language Models with Greater Activation Sparsity, arXiv [[Paper](https://arxiv.org/abs/2411.02335)] 
-
-<a name="Tools" />
-
-## Tools
-- scikit-learn [[Link](https://scikit-learn.org/stable/index.html)]  
