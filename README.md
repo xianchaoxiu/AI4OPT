@@ -8,7 +8,7 @@ I currently focus on artificial intelligence for optimization including
 - [Deep Equilibrium (DEQ)](#DEQ)
 
   
-<strong> Last Update: 2025/02/01 (No longer updated！) </strong>
+<strong> Last Update: 2025/02/01 (<font color=red >No longer updated！</font> ) </strong>
 
 
 
