@@ -1,4 +1,4 @@
-# Artificial Intelligence for Optimization (AI4OPT)
+# Artificial Intelligence for Optimization
 
 
 I currently focus on artificial intelligence for optimization including
