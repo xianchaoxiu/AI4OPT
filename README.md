@@ -1,7 +1,7 @@
-# Artificial Intelligence for Optimization
+# Deep-Learning for Optimization
 
 
-I currently focus on artificial intelligence for optimization including
+I currently focus on deep learning for optimization including
 - [Surveys](#Surveys)
 - [Plug-and-Play (PnP)](#PnP)
 - [Deep Unfolding (DU)](#DU)
